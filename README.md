@@ -10,7 +10,9 @@
 
 ---
 
-![Demo](./snake.mp4)
+## 🎥 Tutoriel
+[Regarder la vidéo](./snake.mp4)
+
 
 ## Makefile
 
