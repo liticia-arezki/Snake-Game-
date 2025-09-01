@@ -10,6 +10,8 @@
 
 ---
 
+![Demo](./snake.mp4)
+
 ## Makefile
 
 Le `Makefile` compile tous les fichiers et génère un exécutable nommé :  makefile
@@ -19,4 +21,4 @@ Pour compiler et exécuter :
 make
 ./snake_game
 
-![Demo](./snake.mp4)
+
